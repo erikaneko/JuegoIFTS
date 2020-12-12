@@ -1,16 +1,18 @@
+package Historia;
+
 import java.util.HashMap;
 import java.util.Map;
 
 public class Personaje {
     String nombre;
     String descripcion;
-    Map<String,Objeto> mochila;
+    Map<String, Objeto> mochila;
     Map<String,Integer> salasinvestigadas;
     static Personaje yo;
 
     Personaje(){
         this.descripcion="";
-        mochila=new HashMap<String,Objeto>();
+        mochila=new HashMap<String, Objeto>();
         salasinvestigadas=new HashMap<String,Integer>();
     }
 
@@ -35,14 +37,14 @@ public class Personaje {
 
 
     /*
-        public void LoadPersonaje(String descripcion,Map<String,Objeto> mochila,Map<String,Integer> salasinvestigadas){
+        public void LoadPersonaje(String descripcion,Map<String,Historia.Objeto> mochila,Map<String,Integer> salasinvestigadas){
             this.description=descripcion;
             this.mochila=mochila;
             this.salasinvestigas=salasinvestigadas;
         }
         
-        public void LoadPersonaje(Map<String,Object> Personaje){
-            Personaje.getvalues
+        public void LoadPersonaje(Map<String,Object> Historia.Personaje){
+            Historia.Personaje.getvalues
         }
     
     */

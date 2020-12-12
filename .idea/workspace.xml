@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d51ba0-e773-4caf-8afe-714be7c5aa8b" name="Default Changelist" comment="" />
+    <list default="true" id="62d51ba0-e773-4caf-8afe-714be7c5aa8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Motor/File_Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Motor/Consola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Escenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Historia/Escenario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EscenarioCondiciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EscenarioCondiciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Motor/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Objeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Historia/Objeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Personaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Historia/Personaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Motor/Comandos.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +23,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1klOcptgyLenxFlxfX2tRbMZAX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -25,6 +42,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Historia" />
       <recent name="Motor" />
     </key>
   </component>
@@ -75,6 +93,19 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -92,19 +123,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/Presentacion.java</url>
           <line>81</line>
           <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Objeto.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Objeto.java</url>
-          <line>42</line>
-          <properties class="Objeto" method="getAccion">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

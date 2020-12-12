@@ -1,3 +1,5 @@
+import Historia.Escenario;
+
 public class EscenarioCondiciones extends Escenario {
 
 
